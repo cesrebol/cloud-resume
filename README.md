@@ -22,17 +22,13 @@ The Cloud Resume Challenge requires the participant to build a resume as a stati
 - GitHub Actions
 
 ## Setup and Deployment
-Provide steps on how to set up and deploy the project. Include any prerequisites, Azure service configurations, and how to use GitHub Actions for CI/CD.
 
 ## Challenges and Learning
-Discuss any challenges faced during the project and how you resolved them. Highlight new skills or Azure services you learned through this challenge.
 
 ## Future Enhancements
-Outline any potential improvements or additions you plan to make to your project in the future.
 
 ## Acknowledgments
 Obviously, I would like to thank Forrest Brazeal. Forrest is the creator of this awesome Cloud Resume Challenge. 
 
 ## Contact Information
-Provide your contact details for others to reach out to you, or link to your professional profiles like LinkedIn.
 

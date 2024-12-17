@@ -3,6 +3,7 @@ body{
     font-family: vt323;
 }
 
+<<<<<<< HEAD
 .box {
     display: flex;
     justify-content: center;
@@ -13,6 +14,14 @@ body{
     justify-content: center;
 }
 
+=======
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+>>>>>>> cc304c267592ea47ffdb38aefb7c1ec87ba6a7dd
 .vt323-regular {
     font-family: "VT323", monospace;
     font-weight: 400;

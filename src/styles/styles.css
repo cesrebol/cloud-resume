@@ -1,5 +1,5 @@
 body{
-    background-color: bisque;
+    background-color: #000000;
     font-family: vt323;
 }
 
@@ -8,6 +8,14 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    height: 600px;
+}
+
+
+.container div {
+    background-color: #88BB92;
+    height: 600px;
+    border: 1px solid;
 }
 .vt323-regular {
     font-family: "VT323", monospace;

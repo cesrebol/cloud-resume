@@ -3,6 +3,12 @@ body{
     font-family: vt323;
 }
 
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 .vt323-regular {
     font-family: "VT323", monospace;
     font-weight: 400;

@@ -1,25 +1,25 @@
 body{
-    background-color: #000000;
-    font-family: vt323;
+    background-color: #121212;
+    font-family: 'Courier New', Courier, monospace;
+    color: #eaeaea;
+    margin: 0;
+    padding: 20px;
 }
 
-.container {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    height: 600px;
+nav {
+    font-family: 'Courier New', Courier, monospace;
+    color: #eaeaea;
+    justify-content: center;    
 }
 
-
-.container div {
-    background-color: #88BB92;
-    height: 600px;
-    border: 1px solid;
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
-.vt323-regular {
-    font-family: "VT323", monospace;
-    font-weight: 400;
-    font-style: normal;
-  }
+
+li {
+    display: inline;
+}
+
   

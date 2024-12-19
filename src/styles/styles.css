@@ -1,9 +1,14 @@
-body{
+body {
     background-color: #121212;
     font-family: 'Courier New', Courier, monospace;
     color: #eaeaea;
     margin: 0;
     padding: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
 }
 
 .container {
@@ -13,8 +18,8 @@ body{
 
 nav {
     font-family: 'Courier New', Courier, monospace;
+    display:block;
     color: #eaeaea;
-    justify-content: center;    
 }
 
 ul {
@@ -27,4 +32,11 @@ li {
     display: inline;
 }
 
-  
+a {
+    color: #eaeaea;
+}
+
+a:hover {
+    color: #f27009;
+}
+

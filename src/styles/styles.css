@@ -9,13 +9,14 @@ body {
 .container {
     display: flex;
     justify-content: center;
-}
-
-.container {
-    justify-content: center;
     align-items: center;
+    flex-direction: column;
 }
 
+article {
+    flex-wrap: wrap;
+    padding: 20px;
+}
 nav {
     font-family: 'Courier New', Courier, monospace;
     display:block;
@@ -44,7 +45,6 @@ a:visited {
 a:hover {
     color: #f27009;
 }
-
 
 a:active {
     color: #f27009;

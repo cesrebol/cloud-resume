@@ -38,13 +38,13 @@ a:link {
     color: #eaeaea;
 }
 
+a:visited {
+   color:#eaeaea; 
+}
 a:hover {
     color: #f27009;
 }
 
-a:visited {
-    color:#eaeaea;
-}
 
 a:active {
     color: #f27009;

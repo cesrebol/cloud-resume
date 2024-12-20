@@ -1,25 +1,17 @@
 body{
-    background-color: #121212;
-    font-family: 'Courier New', Courier, monospace;
-    color: #eaeaea;
-    margin: 0;
-    padding: 20px;
+    background-color: #eaeaea;
+    font-family: vt323;
 }
 
-nav {
-    font-family: 'Courier New', Courier, monospace;
-    color: #eaeaea;
-    justify-content: center;    
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-}
-
-li {
-    display: inline;
-}
-
+.vt323-regular {
+    font-family: "VT323", monospace;
+    font-weight: 400;
+    font-style: normal;
+  }
   

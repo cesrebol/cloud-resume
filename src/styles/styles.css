@@ -23,20 +23,20 @@ p {
     color:#f27009;
 }
 
-nav {
+.navbar {
     font-family: 'Courier New', Courier, monospace;
     display:block;
     color: #eaeaea;
 }
 
-ul {
+.navbar ul {
     list-style-type: none;
     margin: 0;
     padding: 0;
     color: #eaeaea;
 }
 
-li {
+.navbar li {
     display: inline;
     color:#eaeaea;
 }

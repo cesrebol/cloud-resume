@@ -17,6 +17,12 @@ article {
     flex-wrap: wrap;
     padding: 20px;
 }
+
+p {
+    font-style: bold;
+    color:#f27009;
+}
+
 nav {
     font-family: 'Courier New', Courier, monospace;
     display:block;

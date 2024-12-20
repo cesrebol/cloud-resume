@@ -1,6 +1,6 @@
 body{
-    background-color: #eaeaea;
-    font-family: vt323;
+    background-color: #000000;
+    font-family: 'Courier New', Courier, monospace
 }
 
 .container {
@@ -8,6 +8,15 @@ body{
     flex-direction: column;
     justify-content: center;
     align-items: center;
+}
+
+
+nav li {
+    display: inline-block;
+}
+
+nav ul {
+    display: inline-block;
 }
 .vt323-regular {
     font-family: "VT323", monospace;

@@ -16,6 +16,7 @@ AWS
 - s3
 - cloudfront
 - Route 53
+- DNS
 
 ## Setup Instructions
 

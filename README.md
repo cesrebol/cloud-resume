@@ -5,6 +5,7 @@ Building a resume website that I will host on AWS
 - [About](#about)
 - [Technologies Used](#technologies-used)
 - [Setup Instructions](#setup-instructions)
+- [Trials](#trials)
 - [Usage](#usage)
 - [License](#license)
 
@@ -19,5 +20,10 @@ AWS
 - DNS
 
 ## Setup Instructions
+
+## Trials
+- Pesky index.html in CloudFront
+- Pesky wildcard in records
+- Pesky redirect
 
 ## License 

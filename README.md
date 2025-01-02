@@ -18,6 +18,8 @@ AWS
 - cloudfront
 - Route 53
 - DNS
+- API Gateway
+- Lambda Functions
 
 ## Setup Instructions
 

@@ -21,6 +21,8 @@ AWS
 - API Gateway
 - Lambda Functions
 
+VS Code
+
 ## Setup Instructions
 
 ## Trials
